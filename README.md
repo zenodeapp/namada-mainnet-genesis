@@ -13,7 +13,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 ## Validators
-
+s
 
 - address: `tnam1q8hck7594xqw9dz35m8wwtgtvdxf4xn0mg908r8x`
     - alias: `OriginStake`
